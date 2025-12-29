@@ -1,0 +1,11 @@
+# Network Security Scanner
+# Python 3.9+ required
+
+# Note: Nmap must be installed separately on the system
+# sudo apt install nmap  # Debian/Ubuntu
+# brew install nmap     # macOS
+
+# For future enhancements:
+# beautifulsoup4>=4.12.0
+# pandas>=2.0.0
+# matplotlib>=3.7.0
