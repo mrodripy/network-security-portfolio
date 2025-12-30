@@ -46,10 +46,10 @@ Profile	Command	Time	Best For
 🔬 Comprehensive	nmap -sS -sV -sC -O -A	Slow	In-depth analysis with OS detection
 ⚠️ Vulnerability	nmap -sV --script vuln,safe	Very Slow	Security vulnerability assessment
 📡 UDP	nmap -sU --top-ports 100	Medium	UDP service discovery
+
 🖥️ Screenshots
 HTML Report Example
-[Ejemplo de Reporte HTML generado](screenshots/html-report-sample.png)
-*Professional HTML report with detailed statistics*
+![Ejemplo de Reporte HTML generado](screenshots/html-report-sample.png)
 
 Terminal Output
 
