@@ -19,7 +19,7 @@ Professional network security assessment tool with automated multi-format report
 🖥️ Screenshots
 HTML Report Example
 ![Ejemplo de Reporte HTML generado](./screenshots/html-report-sample.png)
-
+*Professional HTML report with detailed statistics*
 ## 🎯 Quick Start
 
 ### Prerequisites
