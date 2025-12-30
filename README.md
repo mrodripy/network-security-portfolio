@@ -49,7 +49,7 @@ Profile	Command	Time	Best For
 
 🖥️ Screenshots
 HTML Report Example
-![Ejemplo de Reporte HTML generado](./screenshots/html-report-sample.png)
+![Ejemplo de Reporte HTML generado](/screenshots/html-report-sample.png)
 *Professional HTML report with detailed statistics*
 
 Terminal Output
