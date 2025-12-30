@@ -19,6 +19,7 @@ Professional network security assessment tool with automated multi-format report
 ## 🎯 Quick Start
 
 ### Prerequisites
+
 ```bash
 # Install Nmap (required)
 sudo apt install nmap        # Debian/Ubuntu
@@ -45,6 +46,7 @@ Profile	Command	Time	Best For
 🔬 Comprehensive	nmap -sS -sV -sC -O -A	Slow	In-depth analysis with OS detection
 ⚠️ Vulnerability	nmap -sV --script vuln,safe	Very Slow	Security vulnerability assessment
 📡 UDP	nmap -sU --top-ports 100	Medium	UDP service discovery
+
 🖥️ Screenshots
 HTML Report Example
 
@@ -242,3 +244,5 @@ Always obtain proper authorization before conducting any security assessment.
     Email: mrodriguex@hotmail.com
 
     LinkedIn: Miguel Rodriguez
+
+⭐ If you find this project useful, please give it a star on GitHub!
