@@ -16,6 +16,10 @@ Professional network security assessment tool with automated multi-format report
 - **🐳 Docker Support**: Containerized deployment for consistent environments
 - **📈 Extensible Architecture**: Easy to add custom scan profiles and parsers
 
+🖥️ Screenshots
+HTML Report Example
+![Ejemplo de Reporte HTML generado](./screenshots/html-report-sample.png)
+
 ## 🎯 Quick Start
 
 ### Prerequisites
@@ -46,11 +50,6 @@ Profile	Command	Time	Best For
 🔬 Comprehensive	nmap -sS -sV -sC -O -A	Slow	In-depth analysis with OS detection
 ⚠️ Vulnerability	nmap -sV --script vuln,safe	Very Slow	Security vulnerability assessment
 📡 UDP	nmap -sU --top-ports 100	Medium	UDP service discovery
-
-🖥️ Screenshots
-HTML Report Example
-![Ejemplo de Reporte HTML generado](./screenshots/html-report-sample.png)
-
 
 Terminal Output
 
