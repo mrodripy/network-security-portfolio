@@ -49,7 +49,7 @@ Profile	Command	Time	Best For
 
 🖥️ Screenshots
 HTML Report Example
-![Ejemplo de Reporte HTML generado](https://raw.githubusercontent.com/mrodripy/network-security-portfolio/main/screenshots/html-report-sample.png)
+![Ejemplo de Reporte HTML generado](./screenshots/html-report-sample.png)
 
 
 Terminal Output
