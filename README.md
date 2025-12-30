@@ -48,8 +48,9 @@ Profile	Command	Time	Best For
 📡 UDP	nmap -sU --top-ports 100	Medium	UDP service discovery
 🖥️ Screenshots
 HTML Report Example
+![Ejemplo de Reporte HTML generado](screenshots/html-report-sample.png)
+*Professional HTML report with detailed statistics*
 
-Professional HTML report with detailed statistics
 Terminal Output
 
 Real-time scan execution with progress display
