@@ -22,7 +22,7 @@ HTML Report Example
 *Professional HTML report with detailed statistics*
 
 ## 🎥 Video Demonstration
-![Demo del Network Security Scanner](media/ANSScanner.mp4)
+![Demo del Network Security Scanner](media/demo_scanner.gif)
 
 ## 🎯 Quick Start
 
